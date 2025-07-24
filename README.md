@@ -1,24 +1,118 @@
-<h1 align="center">Hi 👋, I'm Aniket Gavali</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h1 align="center">Hey there, I'm Aniket 👋</h1>
+<h3 align="center">🚀 Software Engineer | 🐍 Pythonist | ☁️ Cloud Native | 💼 Backend Specialist</h3>
 
-# 💫 About Me:
-💬 Ask me about Django, Flask, Python, Deployment
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-dg) 
-
-# 💻 Tech Stack:
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aniket-dg&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aniket-dg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-dg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aniket-dg&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="mailto:aniketgavali1225@gmail.com">📩 Email</a> •
+  <a href="https://aniketdg.github.io">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/aniket-dg">🔗 LinkedIn</a> •
+  <a href="https://github.com/aniket-dg">🐙 GitHub</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aniket-dg&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=835&lines=Code.+Build.+Automate.+Repeat.;Backend+Engineer+%7C+Django+%7C+AWS+%7C+Terraform;Obsessed+with+clean+code+and+scalable+infra" alt="Typing SVG" />
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Currently building at **Noovosoft Technologies** as an Application Developer
+- 🌱 Learning deeper **System Design**, **Microservices**, and **Cloud-Native** best practices
+- 💬 Ask me about `Django`, `Python`, `AWS`, `Terraform`, or clean architecture
+- 🧠 I believe in automation, reproducibility, and DRY code.
+- 💡 Motto: *"Make it work, make it right, make it fast."*
+
+---
+
+### 🧠 Tech Stack
+
+| Language | Frameworks | Cloud & DevOps | Databases | Tools |
+|----------|------------|----------------|-----------|-------|
+| ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) |
+| `C`, `C++`, `Java`, `PHP` | Flask, Celery, CodeIgniter | Terraform, Docker, GCP | MySQL, Redis | Docker, Nginx, Apache |
+
+---
+
+### 💼 Experience
+
+#### 🔹 **Application Developer @ Noovosoft**  
+`Sep 2022 – Present | Pune, India`
+
+- 🚀 Deployed an AWS Lambda with NAT Gateway (via Terraform) to bypass legacy IP whitelisting.
+- 🤖 Built auto-feed systems using TapFeed, cutting manual effort by 80%.
+- 🧪 Integrated Git hooks + Black formatting for 95% cleaner, test-covered code.
+- 👨‍🏫 Mentored new interns, introduced agile workflows and delivery standards.
+- **Stack:** `Python`, `Django`, `PostgreSQL`, `Celery`, `AWS`, `Terraform`, `CI/CD`
+
+#### 🔹 **Backend Intern @ Siteguide Pvt. Ltd.**  
+`Apr 2021 – Aug 2022`
+
+- 📈 Improved app load times by 70% via SQL & logic optimization.
+- ♻️ Created reusable backend modules used across multiple client projects.
+
+---
+
+### 🔨 Projects
+
+#### 🌐 [**FinSailor**](https://github.com/aniket-dg) *(Apr 2024 – Present)*
+> Full-stack investment tracker with broker integrations (Zerodha, Groww)
+
+- 🧾 Real-time portfolio health analyzer for assets, liabilities, and mutual funds.
+- 👨‍👩‍👧 Built a family dashboard for collective financial planning.
+- 🛠️ `Python`, `Django`, `Celery`, `React`, `PostgreSQL`
+
+#### 🛠️ CollaborativePY *(Nov 2022 – Mar 2023)*
+> A Real-Time Collaborative IDE with video + code chat
+
+- 👥 WebRTC-based coding sessions with live text/video chat.
+- 🌐 Supports pair programming, team debugging, async workflows.
+- 💻 `Python`, `WebSockets`, `Django`, `Node.js`, `PostgreSQL`
+
+#### 🏛️ MahaSIG Portal *(Jan 2022 – Mar 2022)*
+> Student-Industry-Government collab portal
+
+- 📨 OTP Verification, Real-time P2P Group Chat, PDF export
+- 🛠️ `Django`, `Channels`, `Redis`, `Bootstrap`, `PostgreSQL`
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniket-dg&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=aniket-dg&theme=tokyonight&hide_border=false" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-dg&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+- 🥇 Winner – **Mindquisitive Hackathon**, beating 75+ teams.
+- 🧱 Built a real-time portal showcased in intra-college innovation fair.
+
+---
+
+### 🎓 Education
+
+- 🎓 B.E. in IT – *9.64 CGPA* – Sinhgad Institute of Tech & Science (2020–2023)  
+- 🎓 Diploma – *88%* – Govt. Polytechnic Nashik (2017–2020)
+
+---
+
+### ⚡ Fun Facts
+
+- 🔄 I love automating boring stuff.
+- ✍️ I enjoy writing clean, production-grade code.
+
+---
+
+### 📫 Let's Connect!
+
+- 📬 **[aniketgavali1225@gmail.com](mailto:aniketgavali1225@gmail.com)**
+- 🌐 **[aniketdg.github.io](https://aniketdg.github.io)**
+- 💼 **[LinkedIn](https://linkedin.com/in/aniket-dg)**
+
+---
